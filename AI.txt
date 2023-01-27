@@ -13,7 +13,7 @@
 		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 	},
-  "BackAd": true,
+  "BackAd": true,l̥l̥
   "onResumeOpenAd": true,
   "KeyAI": "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"
 }
