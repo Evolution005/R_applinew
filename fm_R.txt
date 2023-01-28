@@ -32,7 +32,7 @@
 		"Native_Count": 0,
 		"Banner_Count": 0,
 		"Back_Inter_count":0,
-		"onResumeOpenAd": true
+		"onResumeOpenAd": false
 	},
 	"NativeBlink": true,
 	"NativeBanner": true,
