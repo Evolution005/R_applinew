@@ -4,9 +4,9 @@
 	"alternatead": true,
 	"alternate_data": {
 		"Appopen": "Admob",
-		"Interstrial": "Facebook",
-		"Native": "Facebook",
-		"Banner": "Facebook"
+		"Interstrial": "Applovin",
+		"Native": "Applovin",
+		"Banner": "Applovin"
 	},
 	"Admob": {
 		"Admob_adstatus": false,
@@ -23,9 +23,9 @@
 	},
 	"Applovin": {
 		"Applovin_adstatus": false,
-		"Applovin_Interstrial": "",
-		"Applovin_Native": "",
-		"Applovin_Banner": ""
+		"Applovin_Interstrial": "dc770e083b6fe12a",
+		"Applovin_Native": "eea29cb7174e1441",
+		"Applovin_Banner": "ca56d37ea9e9ba41"
 	},
 	"AdCounter": {
 		"Inter_count": 0,
