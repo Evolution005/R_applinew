@@ -4,9 +4,9 @@
 	"alternatead": true,
 	"alternate_data": {
 		"Appopen": "Admob",
-		"Interstrial": "Applovin",
+		"Interstrial": "Admob",
 		"Native": "Applovin",
-		"Banner": "Applovin"
+		"Banner": "Admob"
 	},
 	"Admob": {
 		"Admob_adstatus": false,
@@ -38,7 +38,7 @@
 	"NativeBanner": false,
 	"AdDialog": true,
 	"BackAd": true,
-	"BackAdPlatform": "Admob",
+	"BackAdPlatform": "Applovin",
 	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
