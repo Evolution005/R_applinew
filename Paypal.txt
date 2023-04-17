@@ -1,8 +1,8 @@
 {
   "facebook_banner_ad_id": "",
-  "facebook_bottom_native_ad_id": "",
-  "facebook_interstitial_ad_id": "",
-  "facebook_native_ad_id": "",
+  "facebook_bottom_native_ad_id": "606780167773977_606780957773898",
+  "facebook_interstitial_ad_id": "606780167773977_606780911107236",
+  "facebook_native_ad_id": "606780167773977_606780957773898",
   "admob_appopen_ad_id": [
     "ca-app-pub-3940256099942544/3419835294"
   ],
@@ -18,7 +18,7 @@
   "admob_native_ad_id": [
 "ca-app-pub-3940256099942544/2247696110"
   ],
-  "ads_type": "admob",
+  "ads_type": "facebook",
   "admob_reward_ad_id": "",
   "unity_ad_id": "",
   "bottom_ads_type": "nativebanner",
