@@ -4,19 +4,19 @@
   "facebook_interstitial_ad_id": "606780167773977_606780911107236",
   "facebook_native_ad_id": "606780167773977_606780957773898",
   "admob_appopen_ad_id": [
-    "ca-app-pub-3940256099942544/3419835294"
+    "/22191932014/pp_open"
   ],
   "admob_banner_ad_id": [
-"ca-app-pub-3940256099942544/6300978111"
+"/22191932014/pp_banner"
   ],
   "admob_bottom_native_ad_id": [
-"ca-app-pub-3940256099942544/2247696110"
+"/22191932014/pp_native"
   ],
   "admob_interstitial_ad_id": [
-"ca-app-pub-3940256099942544/1033173712"
+"/22191932014/pp_inter"
   ],
   "admob_native_ad_id": [
-"ca-app-pub-3940256099942544/2247696110"
+"/22191932014/pp_native"
   ],
   "ads_type": "facebook",
   "admob_reward_ad_id": "",
