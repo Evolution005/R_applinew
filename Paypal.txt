@@ -4,19 +4,19 @@
   "facebook_interstitial_ad_id": "606780167773977_606780911107236",
   "facebook_native_ad_id": "606780167773977_606780957773898",
   "admob_appopen_ad_id": [
-    "/22191932014/pp_open"
+    "/22798352804,22805009155/HPEE_howtocreate.paypalaccount.howtoopen.paypalaccounth_openapp"
   ],
   "admob_banner_ad_id": [
-"/22191932014/pp_banner"
+"/22798352804,22805009155/HPEE_howtocreate.paypalaccount.howtoopen.paypalaccounth_banner"
   ],
   "admob_bottom_native_ad_id": [
-"/22191932014/pp_native"
+"/22798352804,22805009155/HPEE_howtocreate.paypalaccount.howtoopen.paypalaccounth_native"
   ],
   "admob_interstitial_ad_id": [
-"/22191932014/pp_inter"
+"/22798352804,22805009155/HPEE_howtocreate.paypalaccount.howtoopen.paypalaccounth_interstitia"
   ],
   "admob_native_ad_id": [
-"/22191932014/pp_native"
+"/22798352804,22805009155/HPEE_howtocreate.paypalaccount.howtoopen.paypalaccounth_native"
   ],
   "ads_type": "facebook",
   "admob_reward_ad_id": "",
